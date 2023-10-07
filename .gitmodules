@@ -1,0 +1,3 @@
+[submodule "VFitApproximation"]
+	path = VFitApproximation
+	url = https://github.com/ShubhangG/VFitApproximation
